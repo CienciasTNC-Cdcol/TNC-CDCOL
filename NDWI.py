@@ -1,3 +1,18 @@
+__autor__ = "Ideam - TNC - Miguel Angel Canon Ramos"
+__credits__ = ["none"]
+__license__ = "Uso Libre"
+__version__ = "1.0"
+__correo__ = "cienciastnc@gmail.com, miguelca27@gmail.com"
+__status__ = "Finalizado"
+
+
+"""
+Algoritmo para la indetificacion de agua, mediante el  indice de Agua de Diferencia Normalizada (MNDWI)
+las entradas corresponden a imagenes satelitales en formato Xarray, este codigo es para uso en la plataforma 
+Cubo de datos http://cdcol.ideam.gov.co
+"""
+
+
 # -*- coding: utf-8 -*-
 
 import xarray as xr
