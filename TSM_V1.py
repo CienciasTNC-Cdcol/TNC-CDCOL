@@ -1,3 +1,19 @@
+
+__autor__ = "TNC - Ideam - Miguel Angel Canon Ramos"
+__credits__ = ["none"]
+__license__ = "Uso Libre"
+__version__ = "1.0"
+__correo__ = "cienciastnc@gmail.com, miguelca27@gmail.com"
+__status__ = "En desarrollo"
+
+
+"""
+Algoritmo para la indetificacion de la carga total de sedimentos a partir de imagenes satelitales, 
+metodologia Total Suspended Matter - water quality (TSM), este codigo es para uso en la plataforma 
+Cubo de datos http://cdcol.ideam.gov.co
+
+"""
+
 # -*- coding: utf-8 -*-
 
 
