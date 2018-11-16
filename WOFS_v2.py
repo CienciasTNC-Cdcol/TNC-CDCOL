@@ -1,3 +1,13 @@
+__autor__ = "AMA Team"
+__credits__ = ["none"]
+__license__ = "Uso Libre"
+__version__ = "1.0"
+__correo__ = "cienciastnc@gmail.com, miguelca27@gmail.com"
+__status__ = "en desarrollo"
+
+
+
+
 # -*- coding: utf-8 -*-
 
 # Algoritmo de WOFS adaptado para trabajar en el banco de algoritmos,
