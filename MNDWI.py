@@ -7,7 +7,7 @@ __status__ = "Finalizado"
 
 
 """
-Algoritmo para la indetificacion de agua, mediante el indice  Modificación Índice de Agua de Diferencia Normalizada (MNDWI)
+Algoritmo para la indetificacion de agua, mediante el indice  Modificación indice de Agua de Diferencia Normalizada (MNDWI)
 las entradas corresponden a imagenes satelitales en formato Xarray, este codigo es para uso en la plataforma 
 Cubo de datos http://cdcol.ideam.gov.co
 """
